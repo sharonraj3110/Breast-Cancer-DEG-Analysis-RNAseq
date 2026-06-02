@@ -5,7 +5,6 @@
 * Project Overview
 
 
-
 This project analyzes RNA-seq gene expression data from breast cancer samples (GEO dataset: GSE183947) to identify differentially expressed genes between tumor and normal tissues using DESeq2 in R.
 
 
